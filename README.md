@@ -1,3 +1,10 @@
+### Links: 
+ 
+- https://www.linkedin.com/posts/adityajaiswal7_devops-shack-activity-7173575177446912000-k8bJ
+- https://www.linkedin.com/posts/adityajaiswal7_the-ultimate-cicd-corporate-devops-pipeline-activity-7173528244414001154-ilbJ
+- https://www.youtube.com/watch?v=NnkUGzaqqOc 
+
+
 # BoardgameListingWebApp
 
 ## Description
